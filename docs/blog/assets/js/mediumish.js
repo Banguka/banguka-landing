@@ -9,3 +9,11 @@ $(function(){
       }
   });
 });
+
+$('#closeNotify').click(function() {
+  $('#notify1').slideUp().empty();
+});
+
+$(function(){
+  $('#notify1').slideDown();
+});
