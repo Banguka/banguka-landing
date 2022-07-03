@@ -1,3 +1,3 @@
 # banguka-landing
 Landing Page
-comming soon
+ _Blog Section Now Up 
