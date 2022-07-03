@@ -30,6 +30,22 @@ section {
 	font-size:1.4rem;
 	margin-bottom:27px;
 }
+closeNotify2{
+        width:50px;
+        height:50px;
+}
+closeNotify1{
+        width:50px;
+        height:50px;
+}
+.closeNotify2{
+        width:50px;
+        height:50px;
+}
+.closeNotify1{
+        width:50px;
+        height:50px;
+}
 .close:before, 
 .close:after {
     width:40px;
