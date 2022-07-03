@@ -17,3 +17,11 @@ $('#closeNotify').click(function() {
 $(function(){
   $('#notify1').slideDown();
 });
+
+$('#closeNotify2').click(function() {
+  $('#notify2').slideUp().empty();
+});
+
+$(function(){
+  $('#notify2').slideDown();
+});
